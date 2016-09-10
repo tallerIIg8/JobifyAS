@@ -17,6 +17,12 @@
 
 6. sudo make install
 
+
+**Building libcurl**
+
+sudo apt-get install libcurl4-openssl-dev
+
+
 **Building AppServer**
 
 1. cd AppServer/
@@ -28,6 +34,7 @@
 4. make
 
 5. ./main
+
 
 **Simple Test**
 
