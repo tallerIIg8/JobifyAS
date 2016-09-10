@@ -18,7 +18,7 @@
 6. sudo make install
 
 
-**Building libcurl**
+**Building libCurl**
 
 sudo apt-get install libcurl4-openssl-dev
 
